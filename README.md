@@ -1,6 +1,6 @@
 # Team Repository
 
-This repository supports regulated-revision of requirements and safe-keeping until the final SRS template is ready. It is structured to align with CRaM principles (Contextually Relevant & Meaningful).
+This repository supports regulated-revision of requirements and safe-keeping until the final SRS template is ready.
 
 ## Structure
 - **Assumptions/** – Notes on assumptions made during analysis.
@@ -21,4 +21,4 @@ This repository supports regulated-revision of requirements and safe-keeping unt
 - **Sanity Check Step:** Repository acts as a central review point before transitioning to the Specifying phase.  
 
 ## Current Status
-Placeholder files have been created in each folder to demonstrate readiness and provide scaffolding for future content. GitHub Issues and Projects are already in use to track tasks such as drafting requirements and preparing UML diagrams. This setup ensures the repository is not only functional but also aligned with CRaM principles of contextual relevance and meaningful organization.
+Placeholder files have been created in each folder to demonstrate readiness and provide scaffolding for future content. GitHub Issues and Projects are already in use to track tasks such as drafting requirements and preparing UML diagrams. 
