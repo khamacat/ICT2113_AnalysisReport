@@ -10,7 +10,8 @@ This repository supports regulated-revision of requirements and safe-keeping unt
   - *incongruent_reqs.md* – Requirements flagged via IRC as incongruent.  
 - **Models/** – UML diagrams and prototypes (e.g., ERD, activity diagram, use case sketches).  
 - **Tasks/** – Task backlog and progress tracking, supported by GitHub Issues and Projects.  
-- **Reports/** – Executive summary and progress reports.  
+- **Reports/** – Executive summary and progress reports. 
+- **Test Processes/** – Documents unit, integration, and acceptance testing workflows.
 - **Deliverables/** – Drafts of posters, scripts, and other outputs.  
 - **References/** – External resources and academic references.  
 
