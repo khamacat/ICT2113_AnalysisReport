@@ -1,25 +1,27 @@
 # Team Repository
 
-This repository supports regulated-revision of requirements and safe-keeping until the final SRS template is ready.
+This repository supports the regulated revision of requirements, modelling artefacts, and testing processes. It is designed to provide clarity, transparency, and accountability throughout the project lifecycle.
 
-## Structure
-- **Assumptions/** – Notes on assumptions made during analysis.
-- **Requirements/**  
-  - *business_ops.md* – Business operations requirements.  
-  - *technical_reqs.md* – Technical requirements.  
-  - *incongruent_reqs.md* – Requirements flagged via IRC as incongruent.  
-- **Models/** – UML diagrams and prototypes (e.g., ERD, activity diagram, use case sketches).  
-- **Tasks/** – Task backlog and progress tracking, supported by GitHub Issues and Projects.  
-- **Reports/** – Executive summary and progress reports. 
-- **Test Processes/** – Documents unit, integration, and acceptance testing workflows.
-- **Deliverables/** – Drafts of posters, scripts, and other outputs.  
+## Structure Overview
+- **BCIC/** – Breakdown, Clarify, Interpret, and Categorise folders, plus the Incongruous Requirements Checklist (IRC) tool used to flag problematic requirements.
+- **Models/**  
+  - *customer_provided/* – Baseline artefacts supplied by the customer (DFD, Gantt chart, Use Case).  
+  - *team_developed/* – Refined and additional models created by the team (ERD, activity diagrams, sketches).  
 - **References/** – External resources and academic references.  
+- **Reports/** – Executive summaries and progress reports.  
+- **requirements/**  
+  - *assumption/* – Documented assumptions.  
+  - *constraints/* – Constraints placeholders.  
+  - *hardware/* – Hardware requirements placeholders.  
+  - *software/* – Subfolders for Registration & Staff Onboarding, Course Administration, Timetable Scheduling, Attendance Management, and Monitoring & Reporting.  
+- **Tasks/** – Backlog and task tracking.  
+- **Test_Processes/** – Documentation of unit, integration, and acceptance testing workflows.
 
 ## Features
-- **Version Control:** GitHub tracks changes, ensuring requirements and diagrams are safely updated.  
-- **Issues & Projects:** Tasks can be assigned and tracked transparently, supporting accountability.  
-- **Wiki/README:** Explains repository structure and navigation for team members.  
+- **Version Control:** GitHub tracks all changes to requirements, models, and test processes.  
+- **Issues & Projects:** Tasks are assigned and monitored transparently, supporting accountability.  
 - **Sanity Check Step:** Repository acts as a central review point before transitioning to the Specifying phase.  
+- **Documentation:** Each folder contains placeholder files or artefacts to scaffold future content.
 
 ## Current Status
-Placeholder files have been created in each folder to demonstrate readiness and provide scaffolding for future content. GitHub Issues and Projects are already in use to track tasks such as drafting requirements and preparing UML diagrams. 
+The repository is fully structured with placeholders and baseline artefacts. Team-developed models and requirement refinements are in progress. The IRC tool is actively used to classify incongruities, and GitHub Issues/Projects are being prepared for Kanban tracking.
