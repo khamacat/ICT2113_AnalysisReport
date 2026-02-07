@@ -10,7 +10,7 @@ The IRC is a structured tool used to classify and review requirements that may b
 |-----------------------|----------------------------------------------------------------------------------------------------|
 | **Priority Keywords** | Shall (strongest), Must/ Must not, Required to, Applicable, Responsible, Will, Should (weakest)    |
 | **Continuance**       | Below, As follows , Following, Listed, In particular, Supported by                                 |
-| **IRC Category**      | Inconsistent, Not testable, Unseemly prioritized, Ambiguous, Unverifiable, Unrealistic, Unreadable |
+| **IRC Category**      | Inconsistent, Not testable, Unseemly prioritized, Ambiguous, Unverifiable with customer policy, Unrealistic, Suspected incompleteness |
 | **Check Type**        | Contextual Review, Imperative Review, Continuance Review, Consistency Check, Testability Check     |
 | **Affected Reqr(s)**  | Requirement ID(s) flagged (e.g., BAA - L1.1, BSA - L1.2, BL - L1.3)                                |  |
 
