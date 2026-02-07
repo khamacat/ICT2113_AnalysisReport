@@ -1,27 +1,25 @@
-# Team Repository
+# Repository Overview
 
-This repository supports the regulated revision of requirements, modelling artefacts, and testing processes. It is designed to provide clarity, transparency, and accountability throughout the project lifecycle.
+A repository has been established to support the regulated revision of requirements and ensure safekeeping until the final specification stage. It is organised into dedicated folders for requirements, models, references, and the BCIC analysis stages. This structure provides clarity, transparency, and accountability throughout the development process.
 
-## Structure Overview
-- **BCIC/** – Breakdown, Clarify, Interpret, and Categorise folders, plus the Incongruous Requirements Checklist (IRC) tool used to flag problematic requirements.
-- **Models/**  
-  - *customer_provided/* – Baseline artefacts supplied by the customer (DFD, Gantt chart, Use Case).  
-  - *team_developed/* – Refined and additional models created by the team (ERD, activity diagrams, sketches).  
-- **References/** – External resources and academic references.  
-- **Reports/** – Executive summaries and progress reports.  
-- **requirements/**  
-  - *assumption/* – Documented assumptions.  
-  - *constraints/* – Constraints placeholders.  
-  - *hardware/* – Hardware requirements placeholders.  
-  - *software/* – Subfolders for Registration & Staff Onboarding, Course Administration, Timetable Scheduling, Attendance Management, and Monitoring & Reporting.  
-- **Tasks/** – Backlog and task tracking.  
-- **Test_Processes/** – Documentation of unit, integration, and acceptance testing workflows.
+## 3.1 Structure
+- **/Requirements** – Contains elicited requirements and their codified versions, organised into subfolders for:
+  - Software (Registration & Staff Onboarding, Course Administration, Timetable Scheduling, Attendance Management, Monitoring & Reporting)
+  - Hardware
+  - Assumptions
+  - Constraints
+- **/Models** – Stores modelling artefacts, separated into:
+  - *customer_provided* (DFD, Gantt chart, use case)
+  - *team_developed*
+- **/References** – Holds the original SUW ATAM Project Specification and other supporting materials.
+- **/BCIC** – Supports requirement analysis through Breakdown, Clarify, Interpret, Categorise, and the Incongruous Requirements Checklist (IRC).
+- **README.md** – Provides navigation and explanation of the repository structure.
 
-## Features
-- **Version Control:** GitHub tracks all changes to requirements, models, and test processes.  
-- **Issues & Projects:** Tasks are assigned and monitored transparently, supporting accountability.  
-- **Sanity Check Step:** Repository acts as a central review point before transitioning to the Specifying phase.  
-- **Documentation:** Each folder contains placeholder files or artefacts to scaffold future content.
+## 3.2 Features
+- **Version Control** – GitHub ensures all changes to requirements, models, and analysis documents are tracked safely.
+- **Issues & Projects** – Tasks and incongruities are assigned and monitored transparently, supporting accountability.
+- **Sanity Check Step** – Acts as a central review point before transitioning to the Specifying phase.
+- **IRC Tool** – Provides a systematic way to classify and resolve incongruous requirements.
 
-## Current Status
-The repository is fully structured with placeholders and baseline artefacts. Team-developed models and requirement refinements are in progress. The IRC tool is actively used to classify incongruities, and GitHub Issues/Projects are being prepared for Kanban tracking.
+## 3.3 Current Status
+The repository is now complete and actively in use. All BCIC stages — Breakdown, Categorise, Clarify, Interpret, and the IRC — have been carried through to completion. Many Issues raised during development have been closed, with only a very small number left open for reference. Requirements have been codified, models are organised, and supporting documents are properly structured across the repository. Overall, the repository is stable, comprehensive, and provides all relevant information in a clear and accessible format, ensuring readiness for the Specifying phase and final delivery
