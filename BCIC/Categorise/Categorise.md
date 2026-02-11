@@ -1,7 +1,8 @@
 # Repository Overview
 
-The vendor team set up a structured template in the repository ([Link to GitHub Repo]) to organise business operations and technical requirements. This template provides a consistent framework for codification, using the **BO – x.x. numbering scheme** and folder organisation to ensure requirements are traceable and easy to navigate.
+This repository has been established with a structured template to support the project analysis process.  
+It serves as a standardized framework for organizing both business operations and technical requirements, ensuring consistency and traceability across all materials.
 
-All requirements, along with supporting models such as diagrams and process sketches, have been fitted into this template. By integrating models directly with the requirements, the team avoided fragmentation and ensured that both textual and visual specifications are aligned within the same structure.
+All requirements, together with supporting models such as diagrams and process sketches, are integrated into this template. By consolidating textual and visual specifications within the same structure, the team avoids fragmentation and maintains alignment throughout development.
 
-Incongruities are tracked transparently through the **Issues tab**, marked open or closed, and the Breakdown, Clarify, and Interpret stages are documented. This collaborative review confirms completeness and consistency, preparing the requirement set for the Specifying stage.
+The repository also provides a mechanism for conducting sanity checks on the complete set of requirements before moving into the specification phase, reinforcing accuracy and readiness for subsequent stages.
