@@ -9,7 +9,7 @@
 | Suspected incompleteness    | Automatic scheduling does not define constraints or conflict priorities                | BAS - L1.2 Automatic scheduling                 | Contextual           |
 | Unseemly Prioritized        | Marked desirable, but mismatched with description (“The system shall…”)                | BAT - L1.4 Approve Timetable                    | Imperative           |
 | Unseemly Prioritized        | Marked desirable, but mismatched with description (“The system shall…”)                | BH - L1.2 Track student attendance history      | Imperative           |
-| Suspected incompleteness    | No backup/alternative suggested in case of QR failure. Business constraints unclear    | BRA - L1.1 Record Attendance                    | Contextual           |
+| Suspected incompleteness    | No backup/alternative suggested in case of QR failure. Business constraints unclear. Are there any business constraints when taking attendance to ensure verifiability?    | BRA - L1.1 Record Attendance                    | Contextual           |
 | Unseemly Prioritized        | Marked desirable, but mismatched with description (“The system shall…”)                | BAS - L1.1 View attendance summaries            | Imperative           |
 | Suspected incompleteness    | No business rules defined for conflict resolution when overriding staff availability   | BS - L1.3 Assign staff to slots                 | Contextual           |
 | Suspected incompleteness / Unseemly Prioritized | Requirement doesn’t define allowed customisations. Marked ‘Tolerable’, mismatched with description. | BP - L1.4 Customise Profile | Imperative / Continuance |
