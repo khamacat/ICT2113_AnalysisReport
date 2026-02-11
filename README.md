@@ -6,7 +6,6 @@ A repository has been established to support the regulated revision of requireme
 - **/Requirement (From Customer PS)** – Contains elicited requirements and their codified versions, organised into subfolders for:
   - Software (Registration & Staff Onboarding, Course Administration, Timetable Scheduling, Attendance Management, Monitoring & Reporting)
   - Hardware
-  - Assumptions
   - Constraints
 - **/Models** – Stores modelling artefacts, separated into:
   - *customer_provided* (DFD, Gantt chart, use case)
