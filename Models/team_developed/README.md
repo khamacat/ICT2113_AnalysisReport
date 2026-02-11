@@ -1,16 +1,17 @@
 # Team-Developed Models
 
-This folder contains modelling artefacts created or refined by the team. They build upon customer-provided diagrams and incorporate clarifications, improvements, and additional detail.
+This folder contains modelling artefacts created and refined by the project team.  
+These artefacts complement the customer-provided models and reflect the team’s interpretation, design decisions, and refinements made during analysis.
 
 ## Contents
-- **temp** – temp
-- **temp** – temp
+- **Wireframe** – Draft interface sketches illustrating proposed system interactions.
+- **Org_Chart** – Temporary organisational chart used to visualise stakeholder roles and relationships.
 
 ## Purpose
-- Translate customer input into **clear, testable models**.
-- Resolve ambiguities and incongruities identified during review.
-- Provide artefacts that will feed into the final SRS and design documentation.
+- To document models developed internally by the team for validation and refinement.
+- To ensure alignment between requirements and design artefacts.
+- To provide a reference point for clarifications and future specification work.
 
 ## Notes
-- These models are iterative and will evolve as requirements are clarified.
-- Each diagram is version-controlled to ensure traceability.
+- Artefacts in this folder are subject to iteration as requirements evolve.
+- Finalised models will be cross-referenced with requirements to maintain traceability.

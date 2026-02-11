@@ -3,17 +3,18 @@
 A repository has been established to support the regulated revision of requirements and ensure safekeeping until the final specification stage. It is organised into dedicated folders for requirements, models, references, and the BCIC analysis stages. This structure provides clarity, transparency, and accountability throughout the development process.
 
 ## 3.1 Structure
-- **/Requirements** – Contains elicited requirements and their codified versions, organised into subfolders for:
+- **/Requirement (From Customer PS)** – Contains elicited requirements and their codified versions, organised into subfolders for:
   - Software (Registration & Staff Onboarding, Course Administration, Timetable Scheduling, Attendance Management, Monitoring & Reporting)
   - Hardware
   - Assumptions
   - Constraints
 - **/Models** – Stores modelling artefacts, separated into:
   - *customer_provided* (DFD, Gantt chart, use case)
-  - *team_developed*
+  - *team_developed* (wireframes, organisational chart, and other team-created models)
 - **/References** – Holds the original SUW ATAM Project Specification and other supporting materials.
 - **/BCIC** – Supports requirement analysis through Breakdown, Clarify, Interpret, Categorise, and the Incongruous Requirements Checklist (IRC).
 - **README.md** – Provides navigation and explanation of the repository structure.
+
 
 ## 3.2 Features
 - **Version Control** – GitHub ensures all changes to requirements, models, and analysis documents are tracked safely.
