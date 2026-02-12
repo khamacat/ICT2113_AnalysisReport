@@ -8,7 +8,7 @@ A repository has been established to support the regulated revision of requireme
   - Hardware
   - Constraints
 - **/Models** – Stores modelling artefacts, separated into:
-  - *customer_provided* (DFD, Gantt chart, use case, etc.)
+  - *customer_provided* (DFD, Gantt chart, use case,bhtyutnutyu)
   - *team_developed* (wireframes, organisational chart, and other team-created models)
 - **/References** – Holds the original SUW ATAM Project Specification and other supporting materials.
 - **/BCIC** – Supports requirement analysis through Breakdown, Clarify, Interpret, Categorise, and the Incongruous Requirements Checklist (IRC).
