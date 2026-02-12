@@ -1,0 +1,24 @@
+Data Dictionary
+StaffAccounts
+Staff_ID; Staff_Name; Staff_Role; Staff_Profile; Account_Status
+
+Courses 
+Course_ID; Course_Name
+
+Subjects
+Subject_ID; Subject_Name; Assigned_Staff_ID; Course_ID
+
+Timetable Scheduling
+Slot_ID; Course_ID; Subject_ID; Date; Start_Time; End_Time; Location; Assigned_Staff; Approval_Status
+
+Students
+Student_ID; Student_Name; Course_ID
+
+Student_Attendance
+Attendance_Record_ID; Student_ID; Slot_ID; Attendance_Status; Attendance_History
+
+AdminAccount
+Admin_ID; Admin_Name; Admin_Role; Admin_Profile; Account_Status
+
+Roles
+Role_ID, Staff, Admin
