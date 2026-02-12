@@ -7,6 +7,7 @@ These artefacts complement the customer-provided models and reflect the team’s
 - **Wireframe** – Draft interface sketches illustrating proposed system interactions.
 - **Org_Chart** – Temporary organisational chart used to visualise stakeholder roles and relationships.
 - **BPMN** – Business Process Model and Notation diagrams that illustrate process flows, clarifications, and interactions (including with the Account Manager).
+- **Entity_Relation_Diagram.png** – ER diagram showing entities, attributes, and relationships across the system.
 
 ## Purpose
 - Document models developed internally by the team for validation and refinement.
