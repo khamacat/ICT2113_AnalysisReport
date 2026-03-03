@@ -9,7 +9,9 @@ They represent the baseline understanding of system requirements and processes.
 - **use_case.png** – Use Case diagram provided by the customer.
 - **Paper_Napkin1.png** – Paper prototype sketch for the proposed web application.
 - **Paper_Napkin2.png** – Simple workflow and clarification notes with the Account Manager.
-- **Data_Dictionary.txt** – Tabular definition of entities, attributes, data types, and relationships supplied by the customer.
+- **Data_Dictionary(Outdated).txt** – Early tabular definition of entities, attributes, data types, and relationships supplied by the customer.  
+  > *Note: This version is outdated and has been superseded by the team‑developed Data Dictionary (`Models/team_developed/Data_Dictionary/Data_Dictionary.md`).*
+
 
 ## Purpose
 - Serve as the **baseline models** for analysis.
