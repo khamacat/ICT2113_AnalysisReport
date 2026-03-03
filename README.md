@@ -23,4 +23,8 @@ A repository has been established to support the regulated revision of requireme
 - **IRC Tool** – Provides a systematic way to classify and resolve incongruous requirements.
 
 ## 3.3 Current Status
-The repository is now complete and actively in use. All BCIC stages - Breakdown, Categorise, Clarify, Interpret, and the IRC - have been carried through to completion. Many Issues raised during development have been closed, with only a very small number left open for reference. Requirements have been codified, models are organised, and supporting documents are properly structured across the repository. Overall, the repository is stable, comprehensive, and provides all relevant information in a clear and accessible format, ensuring readiness for the Specifying phase and final delivery
+The analysis report has been completed, and this repository now serves as the central information bank for producing the Software Requirements Specification (SRS).  
+All BCIC stages – Breakdown, Categorise, Clarify, Interpret, and the IRC – have been carried through to completion.  
+Issues raised during development have been resolved.
+Requirements have been codified, models are organised, and supporting documents are properly structured across the repository.  
+The repository is now stable, comprehensive, and positioned to support the finalisation and release of the regulated SRS deliverable.
