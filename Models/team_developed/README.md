@@ -8,7 +8,6 @@ These artefacts complement the customer-provided models and reflect the team’s
 - **Org_Chart** - Temporary organisational chart used to visualise stakeholder roles and relationships.
 - **BPMN** - Business Process Model and Notation diagrams that illustrate process flows, clarifications, and interactions (including with the Account Manager).
 - **Entity_Relationship** - Folder containing the team’s refined database artefacts (ER diagram and revised data dictionary).
-- **Data_Dictionary** – Folder containing the team’s structured Data Dictionary (`Data_Dictionary.md`), detailing entities, attributes, data types, constraints, and relationships.  
 
 ## Purpose
 - Document models developed internally by the team for validation and refinement.

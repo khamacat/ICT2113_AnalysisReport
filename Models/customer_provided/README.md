@@ -10,7 +10,7 @@ They represent the baseline understanding of system requirements and processes.
 - **Paper_Napkin1.png** – Paper prototype sketch for the proposed web application.
 - **Paper_Napkin2.png** – Simple workflow and clarification notes with the Account Manager.
 - **Data_Dictionary(Outdated).txt** – Early tabular definition of entities, attributes, data types, and relationships supplied by the customer.  
-  > *Note: This version is outdated and has been superseded by the team‑developed Data Dictionary (`Models/team_developed/Data_Dictionary/Data_Dictionary.md`).*
+  > *Note: This version is outdated and has been superseded by the team‑developed Data Dictionary (`Models/team_developed/Entity_Relationship/Revised_Data_Dictionary.xlsx`).*
 
 
 ## Purpose
