@@ -12,6 +12,7 @@ A repository has been established to support the regulated revision of requireme
   - *team_developed* (wireframes, organisational chart, and other team-created models)
 - **/References** – Holds the original SUW ATAM Project Specification and other supporting materials.
 - **/BCIC** – Supports requirement analysis through Breakdown, Clarify, Interpret, Categorise, and the Incongruous Requirements Checklist (IRC).
+- **/iRTM** – Contains the Interceptive Requirements Traceability Matrix.
 - **README.md** – Provides navigation and explanation of the repository structure.
 
 
